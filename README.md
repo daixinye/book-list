@@ -1,11 +1,14 @@
 # book-list
 
+## 英语
+- [英语魔法师之语法俱乐部]()
+
 ## 数学
 - [什么是数学：对思想和方法的基本研究](https://book.douban.com/subject/10455982/)
 - [怎样解题](https://book.douban.com/subject/2124114/)
 - [具体数学](https://book.douban.com/subject/1231910/)
 
-# 计算机基础
+## 计算机基础
 - [编码：隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/)
 - [深入理解计算机系统 CSAPP](https://book.douban.com/subject/26912767/)
 
