@@ -29,3 +29,11 @@
 ## 科技人文
 - [黑客与画家]()
 - [暗时间]()
+
+## Web 前端
+JavaScript：
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
+TypeScript：
+- [TypeScript Deep Dive](https://github.com/basarat/typescript-book/)
+- [TypeScript 入门教程](https://github.com/xcatliu/typescript-tutorial)
